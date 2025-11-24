@@ -1,6 +1,6 @@
 # Abhi Music Player
 
-##DEMO(https://abhijith-dev3.github.io/music-player/)
+##[DEMO](https://abhijith-dev3.github.io/music-player/)
 
 A responsive, Spotify-inspired music player built with **HTML, CSS, and JavaScript**.  
 Play your favorite tracks, view your playlist, and control playback with a sleek, modern interface.
